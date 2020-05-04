@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ReactHooksSimpleApiRequest/static/js/main.ac22e603.chunk.js",
+    "main.js.map": "/ReactHooksSimpleApiRequest/static/js/main.ac22e603.chunk.js.map",
+    "runtime-main.js": "/ReactHooksSimpleApiRequest/static/js/runtime-main.8e0234cd.js",
+    "runtime-main.js.map": "/ReactHooksSimpleApiRequest/static/js/runtime-main.8e0234cd.js.map",
+    "static/js/2.5c502bf6.chunk.js": "/ReactHooksSimpleApiRequest/static/js/2.5c502bf6.chunk.js",
+    "static/js/2.5c502bf6.chunk.js.map": "/ReactHooksSimpleApiRequest/static/js/2.5c502bf6.chunk.js.map",
+    "index.html": "/ReactHooksSimpleApiRequest/index.html",
+    "precache-manifest.7b16f54caed6491b3c58e5697d61c982.js": "/ReactHooksSimpleApiRequest/precache-manifest.7b16f54caed6491b3c58e5697d61c982.js",
+    "service-worker.js": "/ReactHooksSimpleApiRequest/service-worker.js",
+    "static/js/2.5c502bf6.chunk.js.LICENSE.txt": "/ReactHooksSimpleApiRequest/static/js/2.5c502bf6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e0234cd.js",
+    "static/js/2.5c502bf6.chunk.js",
+    "static/js/main.ac22e603.chunk.js"
+  ]
+}
